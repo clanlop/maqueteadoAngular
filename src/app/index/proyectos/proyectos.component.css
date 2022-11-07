@@ -1,0 +1,15 @@
+
+section.proyectos{
+    background-image:url(/assets/imagenes/imgTrabajo.jpg);
+    background-repeat:no-repeat ;
+    background-size:cover;
+    background-position:center ; 
+    border-radius: 20px 20px 0px 0px; 
+    box-shadow: 0px 0px 10px 10px  inset rgba(103, 149, 209, 0.856);
+    color: white;
+   
+  
+}
+#proyectos{
+    margin-left: 2rem;
+}

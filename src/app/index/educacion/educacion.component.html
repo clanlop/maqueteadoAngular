@@ -1,0 +1,15 @@
+
+    <section id="educacion"class="educacion">
+          <div class="row">
+            <div class="col-xs-12 col-md-3 col-lg-3 text-center"id="edu">
+            <h1> Educacion</h1>
+            </div>
+            <div class="col-xs-12 col-md-6 col-lg-8 text-center"id="info-edu" *ngFor="let formacion of formacion">
+            <h4> Nivel:{{formacion.nivel}}</h4>
+             <p> <strong> Institucion:</strong> {{formacion.institucion}}</p>
+             <p><strong> Titulo:</strong> {{formacion.titulo}}</p>
+             <p><strong> Fecha de Egreso:</strong>{{formacion.egreso}}</p>
+             <a class="btn btn-info mt-3 mb-5" [href]="formacion.boton_titulo" alt=" " role="button" > Ver Titulo</a>
+            </div>
+          </div>
+    </section>

@@ -1,0 +1,6 @@
+/*navegador*/
+.navbar.navbar-expand-lg.bg-secondary.fixed-top{
+ 
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  #38cfbf 0%, #0a4693 90.2% );
+   }
+   

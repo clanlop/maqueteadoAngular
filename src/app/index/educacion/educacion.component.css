@@ -1,0 +1,25 @@
+
+/*Fondos*/
+section.educacion{
+    background-image:url(/assets/imagenes/graduacion.jpg);
+    background-repeat:no-repeat ;
+    background-size:cover;
+    background-position:center ;
+    filter:brightness(60%);
+    color:white
+    
+   }
+   #info-edu{
+    margin-top:5rem;
+    margin-left:15rem;
+   }
+
+
+   
+    #edu{
+        margin-top:2rem;
+        margin-left:2rem;
+       
+    }
+
+

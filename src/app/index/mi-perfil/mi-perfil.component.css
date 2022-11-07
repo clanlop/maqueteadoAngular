@@ -1,0 +1,41 @@
+/*foto perfil*/ 
+
+img.rounded-circle.w-25{
+    position: absolute;
+     z-index: 1;
+     width:10rem !important;
+     height: auto;
+     margin-top:-18rem;
+     margin-left:-4rem;
+     box-shadow: 4px 0px 10px  rgba(214, 219, 236, 0.856);
+}
+/*margenes*/
+ 
+h3.mt-8{
+    margin-top:5rem;
+    font-size: 48 rem;
+    background: -webkit-linear-gradient(40deg, #09009f,#00ff95 80%);
+    background-clip:text;
+    -webkit-text-fill-color:transparent
+}
+#sobre-mi{
+    margin-top:3rem ;
+    color: ghostwhite;
+}
+
+/*responsive*/
+@media screen and (max-width:412px){
+    img.rounded-circle.w-25{
+        margin-top: -15rem;
+        margin-left:-5rem ;
+        width:8rem !important;
+    }
+    h3.mt-8{
+        margin-top: 20rem;
+    }
+    #sobre-mi{
+        margin-top: 2rem;
+        color: white;
+    }
+    
+}

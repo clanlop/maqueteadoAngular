@@ -1,0 +1,132 @@
+{
+    "nombre":"Claudia Andrea",
+    "apellido":"Lopez",
+    "desarrollador":"Full Stack Jr.",
+    "acerca_de_mi":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit pariatur ipsum natus voluptatem autem eum vero temporibus, repudiandae dolor rerum, mollitia amet molestiae tempore cupiditate perspiciatis fuga sequi reiciendis! Ea.",
+    "imgPerfil":"assets/imagenes/fotoP.png",
+    "imgBanner":"assets/imagenes/banner3.jpg",
+
+
+    "redes":{
+             "instagram":"https://www.instagram.com/clanlop",
+             "linkedin":"https://www.linkedin.com/clanlop",
+             "facebook":"https://www.facebook.com/clanlop",
+             "github":"https://www.github.com/clanlop"
+            },
+    "footer":{
+             "email":"clanlop@hotmail.com",
+             "wasp":"223-5602651",
+             "inicio":"",
+             "sobre mi":"",
+             "educacion":"",
+             "experiencia":"",
+             "habilidades":"",
+             "proyectos":"",
+             "redes":""
+
+              },
+
+
+     "formacion":[
+              {
+               "nivel":"Secundario",
+                "institucion":"EDEM N°2 Felix Origone",
+                "titulo":"Perito Mercantil",
+                "egreso":" 11/1989",
+                "boton_titulo":"assets/certificados y titulos/analitico1.pdf"
+               },
+               {
+                "nivel":"Terciario",
+                "institucion":"Instituto Superior del Colegio de Gestores de la Pcia. de Bs As",
+                "titulo":"Tecnico Superior en Gestoria",
+                "egreso":" 03/2011",
+                "boton_titulo":"assets/certificados y titulos/titulo_gestora.pdf"
+                
+                },
+
+                {
+                  "nivel":"Cursos",
+                  "institucion":"Argentina Programa",
+                  "titulo":"Se Programar",
+                  "egreso":" 10/2021",
+                  "boton_titulo":"assets/certificados y titulos/certificado se programar.pdf"
+                },
+                { 
+                    "nivel":"Cursos",
+                    "institucion":"Argentina Programa",
+                    "titulo":"Ingles para Desarrollo de Software",
+                    "egreso":" 04/2022",
+                    "boton_titulo":""
+                }
+                ],
+
+        "experiencia":[
+                {
+               "empresa":"RCT (Residencias Cooperativas de Turismo)-Hoteleria",
+               "puesto":"Camarera de sede horario nocturno de 00hs a 08hs",
+               "descripcion":"Principal tarea brindar al huésped asistencia y resolución ante cualquier eventualidad que se presente en horario de guardia nocturna. Logre adaptarme a una tarea y horario de los cuales no tenía experiencia.",
+               "periodo":"del 09/2016 al 03/2020"   
+            
+                },
+                {
+                "empresa":"I/Q -Indumentaria Femenina",
+                "puesto":"Vendedora-Cajera",
+                "descripcion":"Responsable del local. Recepción de mercadería stock venta y manejo de dinero cierre decaja. Logre adquirir más experiencia en comercio.",
+                "periodo":"del 03/2007 al 04/2014"   
+                    
+                },
+
+                {
+                 "empresa":"Boom-Video Club/Bilbao-España",
+                 "puesto":"Atencion al Cliente-Cajera",
+                 "descripcion":"Venta y alquiler de consolas juegos y películas, con anexo de otros rubros como golosinas bebidas y art.varios manejo de PC y cajeros expendedores de películas. Trabaje en sus 5 sucursales; logre adaptarme a un trabajo en otra cultura y ser aceptada como una más de esa comunidad una gran y rica experiencia.",
+                 "periodo":"del 05/2002 al 12/2006"   
+            
+                },
+
+                {
+                  "empresa":"Grizzli-Sweater",
+                  "puesto":"Encargada-Vendedora-Cajera",
+                  "descripcion":"Ventas al por mayor, manejo de caja, personal a cargo, distribución de tareas, manejo de horarios organización del local. Logre en poco tiempo emplear todas las tareas relacionadas y desempeñarme con el dinamismo y la responsabilidad que requería el puesto.",
+                  "periodo":"del 04/1995 al 06/2001"   
+            
+                }
+            
+                ],
+
+        "hys":[
+              { 
+                "id":"1",
+                "habilidad":"../assets/iconos/html.png",
+                "porcentaje":"95"
+                
+               },
+               {   
+                "id":"2",
+                "habilidad":"../assets/iconos/js.png",
+                "porcentaje":"90"
+                },
+                {
+                "id":"3",
+                "habilidad":"../assets/iconos/CSS.png",
+                "porcentaje":"60"
+            },
+            {
+                "id":"4",
+                "habilidad":"../assets/iconos/eng.png",
+                "porcentaje":"70"
+            },
+            {
+                "id":"5",
+                "habilidad":"../assets/iconos/git.png",
+                "porcentaje":"100"
+            },
+            {
+                 "id":"6",
+                 "habilidad":"../assets/iconos/grupal.png",
+                 "porcentaje":"80"
+                
+            }
+        ]
+
+}

@@ -1,0 +1,17 @@
+<section id="experiencia"class="experiencia">
+ <div class="row">
+ 
+  <div class=" col-xs-12 col-md-3 col-lg-3 text-center" id="col-3Expe">
+  <h1> Experiencia Laboral</h1>
+  </div>
+  <div class="col-xs-12 col-md-4 col-lg-6 text-center" id ="info" *ngFor="let experiencia of experiencia" >
+      <p><strong> Empresa: </strong>{{experiencia.empresa}}</p>
+      <p> <strong> Puesto: </strong>{{experiencia.puesto}} </p>
+      <p> <strong>Descripcion del Puesto: </strong> {{experiencia.descripcion}}</p>
+      <p><strong> Periodo Trabajado: </strong>{{experiencia.periodo}}</p>
+      <br>
+      <hr>
+      <br>
+    </div>
+  </div>
+  </section>

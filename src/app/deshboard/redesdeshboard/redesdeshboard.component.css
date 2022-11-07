@@ -1,0 +1,26 @@
+/*redes*/
+i.fa-brands.fa-facebook.fa-2xl:hover{
+    color:rgb(0, 89, 255);
+    
+    }
+i.fa-brands.fa-linkedin.fa-2xl:hover{
+    color:rgb(0, 183, 255);
+    }
+ i.fa-solid.fa-user-lock.fa-2xl:hover{
+    color:rgba(255, 153, 0, 0.836);
+ 
+        }
+i.fa-solid.fa-user.fa-2xl:hover{
+    color:rgba(0, 255, 64, 0.712);
+            }    
+i.fa-brands.fa-instagram.fa-2xl:hover{
+    color:rgb(195, 0, 255);
+}
+i.fa-brands.fa-github.fa-2xl:hover{
+    color:rgb(111, 0, 255);
+}
+
+.list-group{
+ --bs-list-group-bg:transparent;
+ --bs-list-group-border-width:0;
+}
